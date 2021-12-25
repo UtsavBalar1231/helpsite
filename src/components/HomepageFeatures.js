@@ -4,32 +4,32 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Learn with Ease',
     Svg: require('../../static/img/laptop.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Helpsite is created with a focus on learning. I believe that learning is a key part of the success of any
+        subject. You can find all the help regarding any subject you want.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Projects easy to use',
     Svg: require('../../static/img/chatting.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Helpsite lets you get access to all my projects you want. You can find all the projects I have done on my Github.
+        or contact me directly through any of the below community platforms.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Tutorials for twats',
     Svg: require('../../static/img/video-calling.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Extend your learning by reading various Tutorials across different learning websites.
+        Make yourself confortable with the tutorials before appearing in exams or lectures.
       </>
     ),
   },

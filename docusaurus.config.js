@@ -106,7 +106,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Semester Helpsite, <br>By UtsavBalar and Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Semester 6 Helpsite, <br>By UtsavBalar and Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
