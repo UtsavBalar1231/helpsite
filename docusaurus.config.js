@@ -84,7 +84,7 @@ const config = {
               },
               {
                 label: 'Gmail',
-                href: 'utsavbalar1231@gmail.com',
+                href: 'mailto:utsavbalar1231@gmail.com',
               },
               {
                 label: 'Twitter',

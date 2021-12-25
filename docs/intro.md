@@ -2,34 +2,31 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Helpsite Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
+```md
+I Personely created this website for the students who are frustated from the
+boring lectures of the college or the students that are stuck or suck
+at learning and practising the subjects on their own.
 ```
 
-## Start your site
+:::tip Who this helpsite is for?
 
-Run the development server:
+- This helpsite is for students **Who needs the extra study material for their self-paced studies**.
+- This helpsite is for students **Who missed the lectures and don't have notes for summary**.
+- This helpsite is for students **Who just can't study on ther own**.
+- This helpsite if for students **Who can't do Lab practicals on their own**.
+- This helpsite if for students **Who wants to do quick revision for some trivial topics**.
+- Add some more here
 
-```shell
-cd my-website
+:::
 
-npx docusaurus start
-```
+:::danger Who this helpsite is not for?
 
-Your site starts at `http://localhost:3000`.
+- This helpsite is not for **Students who can't modify the practicals**.
+- This helpsite is not for **Students who complain about the extra content in notes or tutorials**.
+- This helpsite if not for **Professors**.
+- This helpsite is not for **Assholes or Clowns**.
+- This helpsite is not for **Non-humans**.
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+:::
