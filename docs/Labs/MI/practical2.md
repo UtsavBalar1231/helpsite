@@ -15,8 +15,8 @@ print("Probability of drawing two kings from a deck: ",
       round(Probability * 100, 2), "%")
 ```
 
-```python
 ** Solution A) Dynamic**
+```python
 import math
 
 kings = 4

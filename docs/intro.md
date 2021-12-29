@@ -4,10 +4,11 @@ sidebar_position: 1
 
 # Helpsite Introduction
 
-```md
-I Personely created this website for the students who are frustated from the
+```
+I Personally created this website for the students who are frustated from the
 boring lectures of the college or the students that are stuck or suck
 at learning and practising the subjects on their own.
+This is not the right way to learning but it will help you complete the semester a bit more comfortably.
 ```
 
 :::tip Who this helpsite is for?
