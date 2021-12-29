@@ -61,7 +61,7 @@ const config = {
             position: "left",
             label: "Courses",
           },
-          { to: "/docs/lab", label: "Labs", position: "left" },
+          { to: "/docs/labs", label: "Labs", position: "left" },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: "https://github.com/UtsavBalar1231",
