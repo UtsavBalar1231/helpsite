@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Semester 6 Helpsite',
+        title: 'Helpsite - Semester 6',
         logo: {
           alt: 'Helpsite Logo',
           src: 'img/logo.svg',
@@ -55,6 +55,7 @@ const config = {
             position: 'left',
             label: 'Introduction',
           },
+          {to: '/docs/lab', label: 'Labs', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/UtsavBalar1231',
@@ -96,7 +97,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Blogs',
                 to: '/blog',
               },
               {
@@ -106,7 +107,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Semester 6 Helpsite, <br>By UtsavBalar and Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Helpsite, <br>By UtsavBalar and Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
