@@ -32,6 +32,9 @@ const config = {
           editUrl:
             "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
+        googleAnalytics: {
+          trackingID: "G-HJB02VLS7B",
+        },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
         },
