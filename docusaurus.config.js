@@ -7,13 +7,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Semester 6 Helpsite",
   tagline: "We all need our heroes",
-  url: "https://docusaurus.io",
+  url: "https://helpsite.netlify.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "UtsavBalar1231", // Usually your GitHub org/user name.
-  projectName: "helpsite", // Usually your repo name.
+  organizationName: "UtsavBalar1231",
+  projectName: "helpsite",
 
   presets: [
     [
@@ -22,15 +22,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/utsavbalar1231/helpsite/tree/master/",
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/utsavbalar1231/helpsite/tree/master/",
         },
         googleAnalytics: {
           trackingID: "G-HJB02VLS7B",
@@ -57,6 +55,12 @@ const config = {
             docId: "intro",
             position: "left",
             label: "Introduction",
+          },
+          {
+            type: "doc",
+            docId: "subject-theory",
+            position: "left",
+            label: "Subject Theory",
           },
           {
             type: "doc",

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-slug: /theory-syllabus
+slug: /subject-theory
 ---
 
-# Lits of Subjects
+# List of Subjects
 *   [Date Warehousing & Data Mining **`DWDM`**](./dwdm-syllabus)
 *   [Intellectual Property Rights **`IPR`**](./ipr)
 *   [Machine Intelligence **`MI`**](./mi-syllabus)
