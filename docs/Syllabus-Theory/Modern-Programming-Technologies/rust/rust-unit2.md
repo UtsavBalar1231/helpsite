@@ -7,7 +7,7 @@ slug: /rust-unit2
 
 - Defining and instantiating Structs
   - Using the field init shorthand when variables and fields have the same name
-  - Creating instances from other instances with struct update syntax
+  - Creating instances from other instances with structs update syntax
   - Using tuple structs without named fields to create different types
   - Unit-like structs without any fields
 - An example program using structs:

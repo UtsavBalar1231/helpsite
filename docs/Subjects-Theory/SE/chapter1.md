@@ -471,10 +471,12 @@ change, and risk.
 ---
 
 ## Process technology
+
 <center>
   <h3> Process Flow Diagrams</h3>
 
 ![process-flow-diagrams](./images/se-unit1-sw-process-model.jpg)
+
 </center>
 
 ---

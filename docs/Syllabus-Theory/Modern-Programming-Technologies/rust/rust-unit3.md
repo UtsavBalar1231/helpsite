@@ -15,7 +15,7 @@ slug: /rust-unit3
   - The `_` placeholder
 - Concise control flow with if let.
 
-## Rust: Managing Growing Projects with Packages Crats and
+## Rust: Managing Growing Projects with Packages Crates and
 
 - Modules:
   - Packages and crates
