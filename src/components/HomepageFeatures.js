@@ -18,7 +18,7 @@ const FeatureList = [
     Svg: require('../../static/img/chatting.svg').default,
     description: (
       <>
-        Helpsite lets you get access to all my projects you want. You can find all the projects I have done on my Github.
+        Helpsite lets you get access to all my projects you want. You can find all the projects I have completed on my Github repository.
         or contact me directly through any of the below community platforms.
       </>
     ),
@@ -29,7 +29,7 @@ const FeatureList = [
     description: (
       <>
         Extend your learning by reading various Tutorials across different learning websites.
-        Make yourself confortable with the tutorials before appearing in exams or lectures.
+        Make yourself comfortable with the tutorials before appearing in exams or lectures.
       </>
     ),
   },

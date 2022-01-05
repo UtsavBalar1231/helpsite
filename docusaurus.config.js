@@ -69,7 +69,7 @@ const config = {
             label: "Courses",
           },
           { to: "/docs/labs", label: "Labs", position: "left" },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: "https://github.com/UtsavBalar1231",
             label: "GitHub",
@@ -88,8 +88,12 @@ const config = {
                 to: "/docs/intro",
               },
               {
-                label: "Courses",
-                to: "/docs/courses",
+                label: "Subject Theory",
+                to: "/docs/subject-theory",
+              },
+              {
+                label: "Labs",
+                to: "/docs/labs",
               },
             ],
           },
@@ -113,10 +117,14 @@ const config = {
           {
             title: "More",
             items: [
-              // {
-              //   label: 'Blogs',
-              //   to: '/blog',
-              // },
+              {
+                label: "Courses",
+                to: "/docs/courses",
+              },
+              {
+                 label: 'Blogs',
+                 to: '/blog',
+              },
               {
                 label: "GitHub",
                 href: "https://github.com/UtsavBalar1231",
@@ -124,7 +132,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Helpsite, <br>By UtsavBalar and Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Helpsite, <br>By UtsavBalar.`,
       },
       prism: {
         theme: lightCodeTheme,

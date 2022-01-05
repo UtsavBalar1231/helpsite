@@ -9,6 +9,6 @@ slug: /labs
 
 [MAD (ANDROID) - Lab](./labs)
 
-[Data Warehousing and Data mining - Lab](./labs)
+[Data Warehousing and Data mining - Lab](./DWDM/practical1.md)
 
 [RUST - Lab](./MPT/RUST/practical1.md)
