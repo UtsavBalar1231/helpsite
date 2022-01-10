@@ -94,7 +94,7 @@ const config = {
               },
               {
                 label: "Subject Theory",
-                to: "/docs/Subjects-Theory/subject-theory",
+                to: "/docs/subject-theory",
               },
               {
                 label: "Labs",
