@@ -402,6 +402,15 @@ A process framework establishes the foundation for a complete software engineeri
 
 ---
 
+<center>
+  <h3> Process Flow Diagrams</h3>
+
+![process-flow-diagrams](./images/se-unit1-sw-process-model.jpg)
+
+</center>
+
+---
+
 <h2>Umbrella Activities</h2>
 
 Software engineering process framework activities are complemented by a number of umbrella activities.
@@ -415,21 +424,24 @@ change, and risk.
 
 - `2. Risk management` assesses risks that may affect the outcome of the project or the quality of the product. Software quality assurance—defines and conducts the activities required to ensure software quality.
 
-- `3. Technical reviews` assesses software engineering work products in an effort
+- `3. Software Quality assurance` defines and conducts the activities required to ensure software quality.
+
+- `4. Technical reviews` assesses software engineering work products in an effort
   to uncover and remove errors before they are propagated to the next activity.
 
-- `4. Measurement` defines and collects process, project, and product measures that assist the team in delivering software that meets stakeholders’ needs; can be used in conjunction with all other framework and umbrella activities.
+- `5. Measurement` defines and collects process, project, and product measures that assist the team in delivering software that meets stakeholders’ needs; can be used in conjunction with all other framework and umbrella activities.
 
-- `5. Software configuration management` manages the effects of change throughout the software process.
+- `6. Software configuration management` manages the effects of change throughout the software process.
 
-- `6. Reusability management` defines criteria for work product reuse (including software components) and establishes mechanisms to achieve reusable components.
+- `7. Reusability management` defines criteria for work product reuse (including software components) and establishes mechanisms to achieve reusable components.
 
-- `7. Work product preparation and production` encompasses the activities required to create work products such as models, documents, logs, forms, and lists.
+- `8. Work product preparation and production` encompasses the activities required to create work products such as models, documents, logs, forms, and lists.
 
 ---
 
 ## Capability Maturity Model Integration - (CMMI)
 
+- CMMI is a successor of CMM and is more evolved model that incorporates best components of individual disciplines of CMM like softwares and other models.
 - The Capability Maturity Model Integration (CMMI) is a model for creating and maintaining repeatable software, product, & service development processes.
 - CMMI assists organizations in improving processes, mitigating risks, repeating projects, and encouraging a productive development culture. In a nutshell, CMMI provides a structured view of process improvement across an organization.
 - CMMI was initially created by the Software Engineering Institute (SEI) at Carnegie Mellon University for use by the U.S. Department of Defense to assess the quality and capability of their software contractors.
@@ -441,43 +453,49 @@ change, and risk.
 - This results in increased process capacity in the organization.
 - Thus, a business can utilize CMMI to decrease costs, improve on-time delivery, improve productivity, improve product quality, improve service quality, improve customer satisfaction, gain impressive returns on investment, and so on.
 
-  ![cmmi-maturity-levels](./images/se-unit1-cmmi-maturity-levels.jpg)
+<h3> CMMI Objectives: </h3>
+- Fullfilling customer needs and expectations
+- Value creation for investors/stockholders
+- Market growth is increased
+- improved quality of products and services
+- Enhanced reputation in industry
 
-  - `Maturity Level 1`: **Initial** (Ad-hoc Project Management)
+![cmmi-maturity-levels](./images/se-unit1-cmmi-maturity-levels.jpg)
 
-    - Development tasks and projects are conducted on an ad-hoc basis with little or no documentation supporting the development process. Projects are viewed as unpredictable and reactive.
+- `Maturity Level 1`: **Initial** (Ad-hoc Project Management)
 
-  - `Maturity Level 2`: **Managed** (Basic Project Management)
+  - Development tasks and projects are conducted on an ad-hoc basis with little or no documentation supporting the development process. Projects are viewed as unpredictable and reactive.
+  - Processes are poorly managed or controlled.
+  - unpredictable outcomes of processes involved.
+  - ad hoc and chaotic approach used.
+  - no KPAs (Key Performance Areas) are defined.
+  - Low quality of products and services and highest risk.
 
-    - Development processes are documented sufficiently enough so that repeating the same steps may be attempted.
-    - Projects are planned, executed, and managed at this level, but repeatability and sustainability is not yet achieved.
+- `Maturity Level 2`: **Managed** (Basic Project Management)
 
-  - `Maturity Level 3`: **Defined** (Process Standardization)
+  - Development processes are documented sufficiently enough so that repeating the same steps may be attempted.
+  - Projects are planned, executed, and managed at this level, but repeatability and sustainability is not yet achieved.
 
-    - Development processes are defined and established as a standard businesses process with some degree of process improvement occurring over time.
-    - At this level, organizations are more proactive than reactive as standards and guidelines exist to provide direction across projects and programs. Organizations understand their shortcomings and how to address theses shortcomings.
-    - Moreover, organizations know what their goals are for improvement.
 
-  - `Maturity Level 4`: **Quantitatively Managed** (Quantitative Process Performance and Management)
+- `Maturity Level 3`: **Defined** (Process Standardization)
 
-    - Development processes are measured and controlled by quantitative data that includes metrics and indicators.
-    - The organization utilizes this quantitative data to determine predictable processes.
-    - Moreover, the organization uses data to effectively manage risks, make processes more efficient, and correct process deficiencies.
+  - Development processes are defined and established as a standard businesses process with some degree of process improvement occurring over time.
+  - At this level, organizations are more proactive than reactive as standards and guidelines exist to provide direction across projects and programs. Organizations understand their shortcomings and how to address theses shortcomings.
+  - Moreover, organizations know what their goals are for improvement.
 
-  - `Maturity Level 5`: **Optimizing** (Continuous Process Improvement)
-    - Development processes at this level focus on continually improving process performance through both incremental and innovative technological change.
-    - At this highest stage, an organization is in a constant state of improving and enhancing itself by utilizing statistical common causes of process variation.
+- `Maturity Level 4`: **Quantitatively Managed** (Quantitative Process Performance and Management)
+
+  - Development processes are measured and controlled by quantitative data that includes metrics and indicators.
+  - The organization utilizes this quantitative data to determine predictable processes.
+  - Moreover, the organization uses data to effectively manage risks, make processes more efficient, and correct process deficiencies.
+
+- `Maturity Level 5`: **Optimizing** (Continuous Process Improvement)
+  - Development processes at this level focus on continually improving process performance through both incremental and innovative technological change.
+  - At this highest stage, an organization is in a constant state of improving and enhancing itself by utilizing statistical common causes of process variation.
 
 ---
 
 ## Process technology
-
-<center>
-  <h3> Process Flow Diagrams</h3>
-
-![process-flow-diagrams](./images/se-unit1-sw-process-model.jpg)
-
-</center>
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /subject-theory
+slug: /syllabus-theory
 ---
 
 # List of Subjects

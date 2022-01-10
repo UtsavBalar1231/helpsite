@@ -18,5 +18,5 @@ slug: /rust-chapter3
 
 # Rust: Managing Growing Projects with Packages Crates and
 
-- There is a really well written book on [Rust](https://doc.rust-lang.org/book/). This will cover all the basics of Rust.
+- There is a really well written book on [Rust](https://doc.rust-lang.org/book/). Which will cover all the basics of Rust with numerous easy to understand examples.
 - The 6th and 7th unit in [Rust Book](https://doc.rust-lang.org/book/) will cover the unit 3 syllabus.

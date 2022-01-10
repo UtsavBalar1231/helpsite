@@ -22,13 +22,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl:
-            "https://github.com/utsavbalar1231/helpsite/tree/master/",
+          editUrl: "https://github.com/utsavbalar1231/helpsite/tree/master/",
         },
         blog: {
           showReadingTime: true,
-          editUrl:
-            "https://github.com/utsavbalar1231/helpsite/tree/master/",
+          editUrl: "https://github.com/utsavbalar1231/helpsite/tree/master/",
         },
         googleAnalytics: {
           trackingID: "G-HJB02VLS7B",
@@ -57,10 +55,9 @@ const config = {
             label: "Introduction",
           },
           {
-            type: "doc",
-            docId: "subject-theory",
-            position: "left",
+            to: "/docs/subject-theory",
             label: "Subject Theory",
+            position: "left",
           },
           {
             type: "doc",
@@ -68,8 +65,16 @@ const config = {
             position: "left",
             label: "Courses",
           },
-          { to: "/docs/labs", label: "Labs", position: "left" },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: "/docs/labs",
+            label: "Labs",
+            position: "left",
+          },
+          {
+            to: "/blog",
+            label: "Blog",
+            position: "left",
+          },
           {
             href: "https://github.com/UtsavBalar1231",
             label: "GitHub",
@@ -89,7 +94,7 @@ const config = {
               },
               {
                 label: "Subject Theory",
-                to: "/docs/subject-theory",
+                to: "/docs/Subjects-Theory/subject-theory",
               },
               {
                 label: "Labs",
@@ -122,8 +127,8 @@ const config = {
                 to: "/docs/courses",
               },
               {
-                 label: 'Blogs',
-                 to: '/blog',
+                label: "Blogs",
+                to: "/blog",
               },
               {
                 label: "GitHub",
